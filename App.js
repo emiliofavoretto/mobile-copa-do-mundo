@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { StyleSheet, Text, View, FlatList, Image, SafeAreaView } from 'react-native';
 
-const API_URL = 'https://github.com/emiliofavoretto/mobile-copa-do-mundo.git';
+const API_URL = 'https://raw.githubusercontent.com/emiliofavoretto/mobile-copa-do-mundo/refs/heads/main/db.json';
 
 export default function App() {
     const [selecoes, setSelecoes] = useState([]);
