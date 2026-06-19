@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "grupo": "Grupo A",
+    "selecao": "Brasil",
+    "bandeira": "https://flagcdn.com/w320/br.png",
+    "titulos": 5
+  },
+  {
+    "id": "2",
+    "grupo": "Grupo A",
+    "selecao": "França",
+    "bandeira": "https://flagcdn.com/w320/fr.png",
+    "titulos": 2
+  },
+  {
+    "id": "3",
+    "grupo": "Grupo B",
+    "selecao": "Argentina",
+    "bandeira": "https://flagcdn.com/w320/ar.png",
+    "titulos": 3
+  },
+  {
+    "id": "4",
+    "grupo": "Grupo B",
+    "selecao": "Japão",
+    "bandeira": "https://flagcdn.com/w320/jp.png",
+    "titulos": 0
+  }
+]
